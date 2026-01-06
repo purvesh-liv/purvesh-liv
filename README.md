@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Purvesh Patil, 👋<br>I’m an 18-year-old university student currently in my first year, pursuing a degree in IT at RMIT University.<br><br>I’m an aspiring frontend developer with a strong interest in building clean, responsive, and user-friendly web interfaces. I mainly work with HTML, CSS, and JavaScript, and I enjoy learning by building small projects and improving them over time.<br><br>I’m constantly exploring modern web development practices, sharpening my problem-solving skills, and growing one step closer to becoming a professional developer.
 
 
